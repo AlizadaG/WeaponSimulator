@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Practice-Tasks\10.07.2024\PracticeOOP\PracticeOOP\bin\Debug\net8.0\PracticeOOP.exe
+C:\Users\User\Desktop\Practice-Tasks\10.07.2024\PracticeOOP\PracticeOOP\bin\Debug\net8.0\PracticeOOP.deps.json
+C:\Users\User\Desktop\Practice-Tasks\10.07.2024\PracticeOOP\PracticeOOP\bin\Debug\net8.0\PracticeOOP.runtimeconfig.json
+C:\Users\User\Desktop\Practice-Tasks\10.07.2024\PracticeOOP\PracticeOOP\bin\Debug\net8.0\PracticeOOP.dll
+C:\Users\User\Desktop\Practice-Tasks\10.07.2024\PracticeOOP\PracticeOOP\bin\Debug\net8.0\PracticeOOP.pdb
+C:\Users\User\Desktop\Practice-Tasks\10.07.2024\PracticeOOP\PracticeOOP\obj\Debug\net8.0\PracticeOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Practice-Tasks\10.07.2024\PracticeOOP\PracticeOOP\obj\Debug\net8.0\PracticeOOP.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Practice-Tasks\10.07.2024\PracticeOOP\PracticeOOP\obj\Debug\net8.0\PracticeOOP.AssemblyInfo.cs
+C:\Users\User\Desktop\Practice-Tasks\10.07.2024\PracticeOOP\PracticeOOP\obj\Debug\net8.0\PracticeOOP.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Practice-Tasks\10.07.2024\PracticeOOP\PracticeOOP\obj\Debug\net8.0\PracticeOOP.sourcelink.json
+C:\Users\User\Desktop\Practice-Tasks\10.07.2024\PracticeOOP\PracticeOOP\obj\Debug\net8.0\PracticeOOP.dll
+C:\Users\User\Desktop\Practice-Tasks\10.07.2024\PracticeOOP\PracticeOOP\obj\Debug\net8.0\refint\PracticeOOP.dll
+C:\Users\User\Desktop\Practice-Tasks\10.07.2024\PracticeOOP\PracticeOOP\obj\Debug\net8.0\PracticeOOP.pdb
+C:\Users\User\Desktop\Practice-Tasks\10.07.2024\PracticeOOP\PracticeOOP\obj\Debug\net8.0\PracticeOOP.genruntimeconfig.cache
+C:\Users\User\Desktop\Practice-Tasks\10.07.2024\PracticeOOP\PracticeOOP\obj\Debug\net8.0\ref\PracticeOOP.dll
